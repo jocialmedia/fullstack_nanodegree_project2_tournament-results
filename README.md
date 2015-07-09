@@ -43,17 +43,17 @@ Self-explanatory without Screenshot.
 
 ## Installation
 
-1. Make sure you have Git and Python installed on your computer. In case, you run into trouble getting Git, Python, Vagrant and Postgresql to run on your computer please take a look at this [detailed instructions](https://docs.google.com/a/knowlabs.com/document/d/16IgOm4XprTaKxAa8w02y028oBECOoB1EI1ReddADEeY/pub?embedded=true) by udactiy.
+ 1. Make sure you have Git and Python installed on your computer. In case, you run into trouble getting Git, Python, Vagrant and Postgresql to run on your computer please take a look at this [detailed instructions](https://docs.google.com/a/knowlabs.com/document/d/16IgOm4XprTaKxAa8w02y028oBECOoB1EI1ReddADEeY/pub?embedded=true) by udactiy.
 
-2. Clone the original code from the Udacity Git-Repository to your local machine:
+ 2. Clone the original code from the Udacity Git-Repository to your local machine:
 ```
 git clone https://github.com/udacity/fullstack-nanodegree-vm.git```
 
-3. Clone the code from this repository to your local machine:
+ 3. Clone the code from this repository to your local machine:
 ```
 git clone jocialmedia/fullstack_nanodegree_project2_tournament-results.git```
 
-4. Now copy the following files from fullstack_nanodegree_project2_tournament/tournament/
+ 4. Now copy the following files from fullstack_nanodegree_project2_tournament/tournament/
 to the directory vagrant/tournament from udacity:
 ```
 tournament.py
@@ -62,37 +62,37 @@ tournament.sql
 tournament_ressources.json
 tournament_test.py```
 
-5. Go to the directory with the file **Vagrantfile** and start the vagrant server with:
+ 5. Go to the directory with the file **Vagrantfile** and start the vagrant server with:
 ```
 vagrant up```
 
-6. Login to the server with:
+ 6. Login to the server with:
 ```
 vagrant ssh```
 
-7. Go to the directory of the project tournament 
+ 7. Go to the directory of the project tournament 
 ```
 cd /vagrant/tournament```
 
-8. Log in to the Postgresql-Database:
+ 8. Log in to the Postgresql-Database:
 ```
 psql
 ``` 
 
-9. The following command imports the whole content of **tournament.sql** into the database:
+ 9. The following command imports the whole content of **tournament.sql** into the database:
 ```
 \i tournament.sql
 ```
 
-10. Now you can log out of psql
+ 10. Now you can log out of psql
 ```
 \q```
 
-11. And when you are still in the right project directory you can start the program with python:
+ 11. And when you are still in the right project directory you can start the program with python:
 ```
 python tournament.py```
 
-12. The same way you can start the testing file:
+ 12. The same way you can start the testing file:
 ```
 python tournament_test.py```
 
