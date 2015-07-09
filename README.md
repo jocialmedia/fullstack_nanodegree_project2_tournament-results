@@ -106,11 +106,9 @@ python tournament_test.py
 In order to work with the large modifications to the code base I had to do some changes on the tournament_test.py as well. I also had to use a little trick because every time I imported tournament.py into tournament_test.py the automatic menu function started before the testing process. That is why I copied the file tournament.py to tournament_for_testing.py and deactivated the last two lines to prevent the menu from starting.
 
 This is the testing after a successful run:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_testing_successful.png)
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_testing_successful.png?raw=true)
 
-
-This is the testing after one of the tests was manipulated to fail:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_testing_not-successful.png)
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_testing_not-successful.png?raw=true)
 
 
 ##### Which additional resources did you use?
