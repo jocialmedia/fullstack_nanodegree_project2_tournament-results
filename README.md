@@ -5,7 +5,7 @@
 This is a script which simulates one to several tournaments in either elimination or swiss mode. All esults are saved in a postgres database and can be statisticaly analyzed.
 
 
-This is the Startmenu:
+This is the Startmenu:     
 ![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_startmenu.png)
 
 # Option 1. Run a new tournament.
@@ -16,8 +16,7 @@ If there are no players in the database, 32 players are created from a wide rang
 ![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_auto-create-players.png)
 
 This is an example for a Swiss tournament with 4 players:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_example-tournament-swiss_1.png)
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_example-tournament-swiss_2.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_example-tournament-swiss.png)
 
 
 # Option 4. Install or reset the database.
@@ -121,5 +120,5 @@ This is the testing after one of the tests was manipulated to fail:
  
 ## This was done for [Project 2 - Movie Trailer Website]
 as part of the [Full Stack Web Developer Nanodegree at Udacity.com](https://www.udacity.com/course/nd004) 
-June 2015
+June 2015     
 More Information at [Github](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results)
