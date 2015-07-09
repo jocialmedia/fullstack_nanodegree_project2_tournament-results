@@ -113,6 +113,7 @@ In order to work with the large modifications to the code base I had to do some 
 This is the testing after a successful run:
 ![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_testing_successful.png?raw=true)
 
+This is the testing after I manipulated one criteria to fail:
 ![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_testing_not-successful.png?raw=true)
 
 
