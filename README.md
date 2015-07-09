@@ -122,7 +122,7 @@ This is the testing after I manipulated one criteria to fail:
  
 
  
-## This was done for [Project 2 - Movie Trailer Website]
-as part of the [Full Stack Web Developer Nanodegree at Udacity.com](https://www.udacity.com/course/nd004) 
+## This was done for [Project 2 - Tournament Results]
+as part of the [Full Stack Web Developer Nanodegree at Udacity.com](https://www.udacity.com/course/nd004)    
 June 2015     
 More Information at [Github](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results)
