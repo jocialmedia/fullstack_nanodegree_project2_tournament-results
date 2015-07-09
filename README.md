@@ -6,29 +6,29 @@ This is a script which simulates one to several tournaments in either eliminatio
 
 
 This is the Startmenu:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/tournament_simulator_startmenu.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_startmenu.png)
 
 # Option 1. Run a new tournament.
 This is an example for a Eliminaton tournament with 4 players:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/tournament_simulator_example-tournament-elimination.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_example-tournament-elimination.png)
 
 If there are no players in the database, 32 players are created from a wide range of names and ages. They receive a random gender and random birthday:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/tournament_simulator_auto-create-players.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_auto-create-players.png)
 
 This is an example for a Swiss tournament with 4 players:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/tournament_simulator_example-tournament-swiss_1.png)
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/tournament_simulator_example-tournament-swiss_2.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_example-tournament-swiss_1.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_example-tournament-swiss_2.png)
 
 
 # Option 4. Install or reset the database.
 It is easy to delete the whole data:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/tournament_simulator_database-reset.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_database-reset.png)
 
 # Option 2. Take a look at the statistics of tournaments.
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/tournament_simulator_tournament_statistics.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_tournament_statistics.png)
 
 # Option 3. Take a look at the statistics of players.
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/tournament_simulator_player_statistics.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_player_statistics.png)
 
 # Option 5. Show info about this project.
 Self-explanatory without Screenshot.
@@ -107,11 +107,11 @@ python tournament_test.py
 In order to work with the large modifications to the code base I had to do some changes on the tournament_test.py as well. I also had to use a little trick because every time I imported tournament.py into tournament_test.py the automatic menu function started before the testing process. That is why I copied the file tournament.py to tournament_for_testing.py and deactivated the last two lines to prevent the menu from starting.
 
 This is the testing after a successful run:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/tournament_simulator_testing_successful.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_testing_successful.png)
 
 
 This is the testing after one of the tests was manipulated to fail:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/tournament_simulator_testing_not-successful.png)
+![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_testing_not-successful.png)
 
 
 ##### Which additional resources did you use?
