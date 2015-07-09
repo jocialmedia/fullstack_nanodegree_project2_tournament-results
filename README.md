@@ -10,7 +10,7 @@ This is the Startmenu:
 
 
 # Option 1. Run a new tournament.
-This is an example for a Eliminaton tournament with 4 players:
+This is an example for a Elimination tournament with 4 players:
 ![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_example-tournament-elimination.png?raw=true)
 
 
@@ -21,10 +21,6 @@ If there are no players in the database, 32 players are created from a wide rang
 This is an example for a Swiss tournament with 4 players:
 ![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_example-tournament-swiss.png?raw=true)
 
-# Option 4. Install or reset the database.
-It is easy to delete the whole data:   
-![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_database-reset.png?raw=true)
-
 
 # Option 2. Take a look at the statistics of tournaments.  
 ![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_tournament_statistics.png?raw=true)
@@ -32,6 +28,10 @@ It is easy to delete the whole data:
 
 # Option 3. Take a look at the statistics of players.
 ![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_player_statistics.png?raw=true)
+
+# Option 4. Install or reset the database.
+It is easy to delete the whole data:   
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_database-reset.png?raw=true)
 
 # Option 5. Show info about this project.
 Self-explanatory without Screenshot.
@@ -47,37 +47,32 @@ Self-explanatory without Screenshot.
 
 2. Clone the original code from the Udacity Git-Repository to your local machine:
 ```
-git clone https://github.com/udacity/fullstack-nanodegree-vm.git
-```
+git clone https://github.com/udacity/fullstack-nanodegree-vm.git```
 
 3. Clone the code from this repository to your local machine:
 ```
-git clone jocialmedia/fullstack_nanodegree_project2_tournament-results.git
-```
+git clone jocialmedia/fullstack_nanodegree_project2_tournament-results.git```
 
 4. Now copy the following files from fullstack_nanodegree_project2_tournament/tournament/
 to the directory vagrant/tournament from udacity:
 ```
 tournament.py
+tournament_for_testing.py
 tournament.sql
 tournament_ressources.json
-tournament_test.py
-```
+tournament_test.py```
 
 5. Go to the directory with the file **Vagrantfile** and start the vagrant server with:
 ```
-vagrant up
-```
+vagrant up```
 
-6. Log in to the server with:
+6. Login to the server with:
 ```
-vagrant ssh
-```
+vagrant ssh```
 
 7. Go to the directory of the project tournament 
 ```
-cd /vagrant/tournament
-```
+cd /vagrant/tournament```
 
 8. Log in to the Postgresql-Database:
 ```
@@ -91,18 +86,15 @@ psql
 
 10. Now you can log out of psql
 ```
-\q
-```
+\q```
 
 11. And when you are still in the right project directory you can start the program with python:
 ```
-python tournament.py
-```
+python tournament.py```
 
 12. The same way you can start the testing file:
 ```
-python tournament_test.py
-```
+python tournament_test.py```
 
 
 ## Testing
