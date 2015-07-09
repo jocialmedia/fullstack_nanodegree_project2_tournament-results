@@ -1,0 +1,176 @@
+{ 
+"data_for_names" : 
+	{
+	"country" : 
+		{
+		"Germany" : 
+			{
+			"family_names" : 
+				{ 
+				"0" : "Mueller", 
+				"1" : "Meier", 
+				"2" : "Schulz", 
+				"3" : "Merkel", 
+				"4" : "Petersen", 
+				"5" : "Heinrichs", 
+				"6" : "Friedrichs", 
+				"7" : "Karstensen", 
+				"8" : "Schroeder", 
+				"9" : "Lausen" 
+				}, 
+			"female_firstnames" : 
+				{ 
+				"0" : "Melanie", 
+				"1" : "Anja", 
+				"2" : "Ursula", 
+				"3" : "Daniela", 
+				"4" : "Anne", 
+				"5" : "Linda", 
+				"6" : "Frederike", 
+				"7" : "Franziska", 
+				"8" : "Berta", 
+				"9" : "Petra"
+				}, 
+			"male_firstnames" : 
+				{ 
+				"0" : "Wolfgang", 
+				"1" : "Ulf", 
+				"2" : "Christian", 
+				"3" : "Florian", 
+				"4" : "Alexander", 
+				"5" : "Johannes", 
+				"6" : "Sascha", 
+				"7" : "Robert", 
+				"8" : "Max", 
+				"9" : "Tobias"
+				}
+			},
+		"United States" : 
+			{ 
+			"family_names" : 
+				{ 
+				"0" : "Smith", 
+				"1" : "Johnson", 
+				"2" : "Jones", 
+				"3" : "Brown", 
+				"4" : "Lopez", 
+				"5" : "Moore", 
+				"6" : "Davis", 
+				"7" : "Miller", 
+				"8" : "Robinson", 
+				"9" : "Walker"
+				}, 
+			"female_firstnames" : 
+				{ 
+				"0" : "Denver", 
+				"1" : "Zoe", 
+				"2" : "Susan", 
+				"3" : "Charlotte", 
+				"4" : "Elizabeth", 
+				"5" : "Emily",
+				"6" : "Julia", 
+				"7" : "Olivia", 
+				"8" : "Ashley", 
+				"9" : "Sophia"
+				}, 
+			"male_firstnames" : 
+				{ 
+				"0" : "Tyler", 
+				"1" : "Aiden", 
+				"2" : "Joshua", 
+				"3" : "Jayden", 
+				"4" : "Andrew", 
+				"5" : "James", 
+				"6" : "Logan", 
+				"7" : "David", 
+				"8" : "Ryan", 
+				"9" : "William"
+				}
+			},
+		"Russia" : 
+			{ 
+			"family_names" : 
+				{ 
+				"0" : "Mikhailov", 
+				"1" : "Fedorov", 
+				"2" : "Lebedev", 
+				"3" : "Pavlov", 
+				"4" : "Sokolov", 
+				"5" : "Nikolaev", 
+				"6" : "Vasiliev", 
+				"7" : "Popov", 
+				"8" : "Kuznetsov", 
+				"9" : "Ivanov"
+			}, 
+			"female_firstnames" : 
+				{ 
+				"0" : "Anastasiya", 
+				"1" : "Valentina", 
+				"2" : "Galina", 
+				"3" : "Ekaterina", 
+				"4" : "Zlata", 
+				"5" : "Irina", 
+				"6" : "Natalya", 
+				"7" : "Oksana", 
+				"8" : "Dina", 
+				"9" : "Ludmila"
+			}, 
+			"male_firstnames" : 
+				{ 
+				"0" : "Oleg", 
+				"1" : "Boris", 
+				"2" : "Vladimir", 
+				"3" : "Andrei", 
+				"4" : "Viktor", 
+				"5" : "Georgy", 
+				"6" : "Dmitry", 
+				"7" : "Evgeny", 
+				"8" : "Ivan", 
+				"9" : "Nikolay"
+				}
+			},
+		"France" : 
+			{ 
+			"family_names" : 
+				{ 
+				"0" : "Rousseau", 
+				"1" : "Mercier", 
+				"2" : "Lefevre", 
+				"3" : "Fournier", 
+				"4" : "Bertrand", 
+				"5" : "Laurent", 
+				"6" : "Moreau", 
+				"7" : "Durand", 
+				"8" : "Petit", 
+				"9" : "Dubois"
+				}, 
+			"female_firstnames" : 
+			{ 
+				"0" : "Celia", 
+				"1" : "Emilie", 
+				"2" : "Yasmine", 
+				"3" : "Lucie", 
+				"4" : "Juliette", 
+				"5" : "Adele", 
+				"6" : "Clara", 
+				"7" : "Sarah", 
+				"8" : "Lilou", 
+				"9" : "Camille"
+				}, 
+			"male_firstnames" : 
+			{ 
+				"0" : "Antoine", 
+				"1" : "Baptiste", 
+				"2" : "Clement", 
+				"3" : "Arthur", 
+				"4" : "Matheo", 
+				"5" : "Jules", 
+				"6" : "Hugo", 
+				"7" : "Gabriel", 
+				"8" : "Louis", 
+				"9" : "Vincent"
+				}
+			}
+		}
+	}
+}
