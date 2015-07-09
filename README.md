@@ -6,28 +6,32 @@ This is a script which simulates one to several tournaments in either eliminatio
 
 
 This is the Startmenu:     
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_startmenu.png)
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_startmenu.png?raw=true)
+
 
 # Option 1. Run a new tournament.
 This is an example for a Eliminaton tournament with 4 players:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_example-tournament-elimination.png)
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_example-tournament-elimination.png?raw=true)
+
 
 If there are no players in the database, 32 players are created from a wide range of names and ages. They receive a random gender and random birthday:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_auto-create-players.png)
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_auto-create-players.png?raw=true)
+
 
 This is an example for a Swiss tournament with 4 players:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_example-tournament-swiss.png)
-
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_example-tournament-swiss.png?raw=true)
 
 # Option 4. Install or reset the database.
-It is easy to delete the whole data:
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_database-reset.png)
+It is easy to delete the whole data:   
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_database-reset.png?raw=true)
 
-# Option 2. Take a look at the statistics of tournaments.
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_tournament_statistics.png)
+
+# Option 2. Take a look at the statistics of tournaments.  
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_tournament_statistics.png?raw=true)
+
 
 # Option 3. Take a look at the statistics of players.
-![alt tag](https://raw.githubusercontent.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/master/tournament_simulator_player_statistics.png)
+![alt tag](https://github.com/jocialmedia/fullstack_nanodegree_project2_tournament-results/blob/master/pics/tournament_simulator_player_statistics.png?raw=true)
 
 # Option 5. Show info about this project.
 Self-explanatory without Screenshot.
