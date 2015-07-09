@@ -47,11 +47,13 @@ Self-explanatory without Screenshot.
 
  2.Clone the original code from the Udacity Git-Repository to your local machine:
 ```
-git clone https://github.com/udacity/fullstack-nanodegree-vm.git```
+git clone https://github.com/udacity/fullstack-nanodegree-vm.git
+```
 
  3.Clone the code from this repository to your local machine:
 ```
-git clone jocialmedia/fullstack_nanodegree_project2_tournament-results.git```
+git clone jocialmedia/fullstack_nanodegree_project2_tournament-results.git
+```
 
  4.Now copy the following files from fullstack_nanodegree_project2_tournament/tournament/
 to the directory vagrant/tournament from udacity:
@@ -60,19 +62,23 @@ tournament.py
 tournament_for_testing.py
 tournament.sql
 tournament_ressources.json
-tournament_test.py```
+tournament_test.py
+```
 
  5.Go to the directory with the file **Vagrantfile** and start the vagrant server with:
 ```
-vagrant up```
+vagrant up
+```
 
  6.Login to the server with:
 ```
-vagrant ssh```
+vagrant ssh
+```
 
  7.Go to the directory of the project tournament 
 ```
-cd /vagrant/tournament```
+cd /vagrant/tournament
+```
 
  8.Log in to the Postgresql-Database:
 ```
@@ -86,15 +92,18 @@ psql
 
  10.Now you can log out of psql
 ```
-\q```
+\q
+```
 
  11.And when you are still in the right project directory you can start the program with python:
 ```
-python tournament.py```
+python tournament.py
+```
 
  12.The same way you can start the testing file:
 ```
-python tournament_test.py```
+python tournament_test.py
+```
 
 
 ## Testing
